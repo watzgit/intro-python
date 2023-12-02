@@ -1,3 +1,5 @@
 print("hello")
 name=input("what is your name")
-print("hello"+name)
+print("hello" ,end="")
+print(name)
+
