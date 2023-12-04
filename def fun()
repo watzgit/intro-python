@@ -1,0 +1,10 @@
+#define functions
+  def hello():
+ print("hello")
+name = input ("what is yor name")
+hello ()
+   print(name)  
+
+   #output wzur name lok
+   #hello
+   #lok
