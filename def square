@@ -3,7 +3,7 @@ def main():
   print("x square is",square(x))
 
 def square(n):
-  return n*n
+  return n ** 2 # same as n*n 
   
 main()
 
