@@ -5,4 +5,4 @@ y=float(input("y val"))      #both take value and convert to decimal val to roun
 
 
 print(round(x+y))            #but in round (2.3 + 2.2) = 4
-print(round(x/y))            #but in round (3 / 2) = 2
+print(round(x/y,2))            #1.5 
